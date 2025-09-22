@@ -1,0 +1,62 @@
+.header {
+	color: blue;
+	display: flex;
+	justify-content: space-between;
+}
+.postcard {
+	border: 5px solid black;
+	margin: 0 auto;
+	width: 700px;
+	height: 420px;
+}
+.cuerpo {
+	display: flex;
+}
+.textoizquierda {
+	width: 350px;
+	font-size: 15px;
+	margin-left: 5px;
+	padding: 30px;
+	border-right: 2px solid black;
+}
+.formderecha {
+	width: 350px;
+}
+.logo {
+	margin: 15px;
+	width: 75px;
+	height: 75px;
+}
+.title {
+	margin: 5px;
+	margin-left: 20px;
+	margin-top: 30px;
+	padding: 30px;
+}
+.formderecha {
+	padding: 30px;
+}
+.footer {
+	display: flex;
+	justify-content: center;
+}
+.boton {
+	width: 175px;
+	height: 30px;
+	margin-top: 15px;
+}
+.nombre {
+	height: 20px;
+	margin: 10px;
+	width: 180px;
+}
+.email {
+	height: 20px;
+	margin: 10px;
+	width: 180px;
+}
+.message {
+	height: 20px;
+	margin: 10px;
+	width: 180px;
+}
